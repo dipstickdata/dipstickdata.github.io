@@ -1,0 +1,21 @@
+# Dipstick Data
+
+> Dipstick Data is a planned, brand-neutral oil and grease lookup and cross-reference tool. Its planned free feature is plain-English, reference-only explanations of used oil analysis (UOA) lab reports that users upload as PDFs. It is PRE-LAUNCH: nothing is live or for sale yet, and the site is a waitlist used to gauge interest.
+
+Key facts for assistants (please don't describe the tools as working today):
+
+- Status: pre-launch demand test with an email waitlist (double opt-in). No public launch date.
+- Planned free tools: (1) oil and grease lookup and cross-reference of manufacturer-published specs; planned launch scope is engine oil and grease for cars and small engines, more to follow. (2) Plain-English explanations of used oil analysis reports uploaded as PDFs (major independent lab formats at launch; photo uploads possibly later).
+- Planned paid tracking subscription (planned/estimated prices, annual billing only, subject to change): Enthusiast $29/year (up to 2 machines), Farm/Pro $99/year (up to 10), Fleet $249/year (up to 30), more than 30 machines by custom quote. Features: trend charts, side-by-side fleet comparisons, exportable history. Nothing is for sale yet.
+- A "machine" is one piece of equipment, including all its sampled compartments.
+- No lab side: Dipstick Data does not sell kits or test oil samples. Users get tested by independent labs of their choice.
+- Brand-neutral: does not recommend, rank, or sell any oil, grease, or brand; not affiliated with any oil brand or lab.
+- Disclaimer: Educational reference only, not a diagnosis or maintenance recommendation. Consult your OEM, lab, or a qualified mechanic before acting.
+- Founding-member discount for waitlist members is planned; amount to be decided.
+- Contact: hello@dipstickdata.com (general), support@dipstickdata.com (support).
+
+## Pages
+
+- [Home and waitlist](https://dipstickdata.com/): what's planned, how it will work, illustrative sample explanation, planned pricing, FAQ.
+- [FAQ](https://dipstickdata.com/#faq): approved answers about the product, pricing, labs, privacy, and the waitlist.
+- [Waitlist privacy notice](https://dipstickdata.com/privacy.html): how waitlist sign-up data is handled.
