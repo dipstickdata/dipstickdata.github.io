@@ -98,8 +98,8 @@ window.DD_CONFIG = {
    * Custom events sent: i_would_pay (tier), signup_submit, machines (bucket).
    * ------------------------------------------------------------- */
   analytics: {
-    provider: "none",
-    goatcounter: { code: "" },              // e.g. "dipstickdata" -> https://dipstickdata.goatcounter.com
+    provider: "goatcounter",
+    goatcounter: { code: "dipstickdata" },              // e.g. "dipstickdata" -> https://dipstickdata.goatcounter.com
     plausible: { domain: "dipstickdata.com", src: "https://plausible.io/js/script.js" },
     cloudflare: { token: "" },              // beacon token from Cloudflare Web Analytics
     debug: false                            // true = also log events to the console
