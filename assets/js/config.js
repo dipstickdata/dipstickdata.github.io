@@ -45,7 +45,7 @@ window.DD_CONFIG = {
     kit: {
       // From Kit > Grow > Landing Pages & Forms > (form) > Publish > HTML.
       // The number in https://app.kit.com/forms/1234567/subscriptions
-      formId: "",
+      formId: "10089172",
       // Kit custom field keys (create these in Kit > Subscribers > custom fields first).
       fieldKeys: {
         machines: "machines",
